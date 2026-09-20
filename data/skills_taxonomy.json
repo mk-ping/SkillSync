@@ -1,0 +1,11 @@
+﻿{
+  "programming_languages": ["python", "java", "javascript", "typescript", "c++", "c#", "go", "rust", "sql", "r", "scala"],
+  "ml_frameworks": ["scikit-learn", "tensorflow", "pytorch", "keras", "xgboost", "lightgbm", "catboost"],
+  "nlp_tools": ["spacy", "nltk", "huggingface", "transformers", "sentence-transformers", "bert", "gpt"],
+  "data_tools": ["pandas", "numpy", "matplotlib", "seaborn", "plotly", "tableau", "power bi"],
+  "web_frameworks": ["fastapi", "flask", "django", "react", "vue", "angular", "node.js", "express"],
+  "databases": ["postgresql", "mysql", "mongodb", "redis", "elasticsearch", "sqlite", "dynamodb"],
+  "cloud_devops": ["aws", "azure", "gcp", "docker", "kubernetes", "terraform", "jenkins", "github actions", "ci/cd"],
+  "mlops": ["mlflow", "kubeflow", "airflow", "dvc", "weights and biases"],
+  "soft_concepts": ["machine learning", "deep learning", "nlp", "computer vision", "data engineering", "model deployment", "a/b testing", "recommendation systems"]
+}
